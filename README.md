@@ -27,10 +27,9 @@ Even though the dataset is a bit dated, it remains highly relevant for understan
 
 ## 📂 Dataset
 The datasets used include:
-- Global Covid-19 cases (confirmed, deaths, recovered)  
-- India Covid-19 statistics  
-- Vaccination data  
-- Worldometer summary & daily data  
+covid_data.csv
+
+covid_vaccine_statewise.csv
 
 📌 Note: The datasets are historical and may not reflect current Covid-19 figures.
 
