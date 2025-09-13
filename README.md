@@ -25,9 +25,10 @@ Even though the dataset is a bit dated, it remains highly relevant for understan
 
 ---
 
-## 📂 Dataset
-The datasets used include:
-covid_data.csv
+## 📊 Datasets Used
+1. **`covid_data.csv`** – Contains Covid-19 cases (confirmed, recovered, deaths).  
+2. **`covid_vaccine_statewise.csv`** – Contains vaccination data across different states in India.  
+
 
 covid_vaccine_statewise.csv
 
